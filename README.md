@@ -10,7 +10,7 @@
  <p align="center">Overview about my Github account</p>
 </p>
 
-![Adilmx's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Adilmx's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&bg_color=30,3acdde,5740c9&title_color=fff&text_color=fff&icon_color=fff)
 
 <h2 align="center">⚡ Programming Languages And Frameworks</h2>
 <p>
