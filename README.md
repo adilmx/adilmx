@@ -1,8 +1,10 @@
 
  <h2 align="center">ADILMX - AIT AHMED ADIL</h2>
-<h3 align="center">👋 Hi, I’m @adilmx my full name is AIT AHMED Adil</h3>
- <h3 align="center">👀 exploring the web and the coding world is my passion</h3>
- <h2 align="center">📫 My accounts</h2>
+<h4 align="center">👋 Hi, I’m @adilmx my full name is AIT AHMED Adil</h4>
+<h4 align="center">:octocat: | FullStack Developer | Software engineer student | </h4>
+ <h4 align="center">:heart_eyes: Passionate about the web and discovering new Technogies</h4>
+ 
+ <h2 align="center">📫 Reach me by uising</h2>
  <p align="center">
  <a href="https://www.linkedin.com/in/adil-ait-ahmed-a007a11b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,7 +15,7 @@
 </a>
 </p>
 <p align="center">
- <h2 align="center">Overview about my Github account</h2>
+ <h2 align="center">:zap: Overview about my Github account</h2>
 </p>
 
 <p align="center">
@@ -26,7 +28,7 @@
                   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adilmx&&theme=react-dark)
 
-<h2 align="center">⚡ Programming Languages ,Frameworks and Tools</h2>
+<h2 align="center">:computer:Programming Languages ,Frameworks and Tools</h2>
 <p>
 <h3 align="left">Styling and Mockup World</h3>
 <p align="left">
