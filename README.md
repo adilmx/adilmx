@@ -10,7 +10,13 @@
  <p align="center">Overview about my Github account</p>
 </p>
 
-![Adilmx's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&bg_color=30,3acdde,5740c9&title_color=fff&text_color=fff&icon_color=fff)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="adilmx" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilmx&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adilmx" />
+</p>
                   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adilmx&&theme=react-dark)
 
