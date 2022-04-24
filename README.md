@@ -2,7 +2,7 @@
  <h2 align="center">ADILMX - AIT AHMED ADIL</h2>
 <h4 align="center">👋 Hi, I’m @adilmx my full name is AIT AHMED Adil</h4>
 <h4 align="center">:octocat: | FullStack Developer | Software engineer student | </h4>
- <h4 align="center">:heart_eyes: Passionate about the web and discovering new Technogies</h4>
+ <h4 align="center">:heart_eyes: Passionate about the web and discovering new Technologies</h4>
  
  <h2 align="center">📫 Reach me by uising</h2>
  <p align="center">
