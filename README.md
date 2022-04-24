@@ -2,8 +2,13 @@
  <h3 align="center">👀 exploring the web and the coding world is my passion</h3>
  <h2 align="center">📫 My accounts</h2>
  <p align="center">
-<a href = "https://mail.google.com/mail/u/0/#search/rfc822msgid%3Aabcdefg%40ait.ahmed.adil.mx%40gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = https://www.linkedin.com/in/adil-ait-ahmed-a007a11b0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href="https://www.linkedin.com/in/adil-ait-ahmed-a007a11b0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ait.ahmed.adil.mx@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 <p align="center">
  <h2 align="center">ADILMX - AIT AHMED ADIL</h2>
