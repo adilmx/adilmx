@@ -8,7 +8,7 @@
 <h4 align="center">:octocat: | FullStack Developer | Software engineer student | </h4>
  <h4 align="center">:heart_eyes: Passionate about the web and discovering new Technologies</h4>
  
- <h2 align="center">📫 Reach me by uising</h2>
+ <h2 align="center">📫 Reach me by using</h2>
  <p align="center">
  <a href="https://www.linkedin.com/in/adil-ait-ahmed-a007a11b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
