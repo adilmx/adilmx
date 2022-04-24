@@ -12,33 +12,40 @@
 
 ![Adilmx's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&bg_color=30,3acdde,5740c9&title_color=fff&text_color=fff&icon_color=fff)
 
-<h2 align="center">⚡ Programming Languages And Frameworks</h2>
+<h2 align="center">⚡ Programming Languages ,Frameworks and Tools</h2>
 <p>
 <h3 align="left">Styling and Mockup World</h3>
-
+<p align="left">
  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" alt="html5" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" alt="css3" />
    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" align="center" alt="sass" />  
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" align="center" alt="bootstrap" />
 </p>
+</p>
 <p>
   <h3 align="left">JAVA World</h3>
+  <p align="left">
    <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" align="center" alt="java" />
 <img width="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" align="center" alt="spring" />
 </p>
+</p>
 <p>
   <h3 align="left">Mobile Dev World</h3>
+  <p align="left">
  <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg" align="center" alt="Dart" />
   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg" align="center" alt="Android" />
  </p>
+ </p>
  <p>
  <h3 align="left">PHP World</h3>
-
+<p align="left">
  <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" align="center" alt="php" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" align="center" alt="laravel" />
   </p>
+  </p>
   <p>
   <h3 align="left">JS/TS World</h3>
+<p align="left">
   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" align="center" alt="javascript" />
  <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" align="center" alt="typescript" />
  <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg" align="center" alt="Angular" />
@@ -46,18 +53,23 @@
   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" align="center" alt="react" />
   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/redux.svg" align="center" alt="redux" />
   </p>
+  </p>
   <p>
   <h3 align="left">DataBases World</h3>
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="mysql" /> 
+<p align="left">
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="mysql" />
    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" align="center" alt="oracle" />  
-   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" align="center" alt="mongoDB" /> 
+   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" align="center" alt="mongoDB" />
+  </p>
   </p>
   <p>
    <h3 align="left">Text Editors</h3>
-   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" align="center" alt="vscode" /> 
+<p align="left">
+   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" align="center" alt="vscode" />
 <h3 align="left">IDES</h3>
-   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/eclipse.svg" align="center" alt="eclipse" > 
-   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" align="center" alt="intellij" > 
+<p align="left">
+   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/eclipse.svg" align="center" alt="eclipse" >
+   <img width="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" align="center" alt="intellij" >
 
 </p>
  <h2 align="center">ＡＤＩＬＭＸ<sup>ｄｅｖ</sup></h2>
