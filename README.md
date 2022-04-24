@@ -1,3 +1,5 @@
+
+ <h2 align="center">ADILMX - AIT AHMED ADIL</h2>
 <h3 align="center">👋 Hi, I’m @adilmx my full name is AIT AHMED Adil</h3>
  <h3 align="center">👀 exploring the web and the coding world is my passion</h3>
  <h2 align="center">📫 My accounts</h2>
@@ -11,8 +13,7 @@
 </a>
 </p>
 <p align="center">
- <h2 align="center">ADILMX - AIT AHMED ADIL</h2>
- <p align="center">Overview about my Github account</p>
+ <h2 align="center">Overview about my Github account</h2>
 </p>
 
 <p align="center">
