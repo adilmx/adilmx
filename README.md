@@ -11,6 +11,8 @@
 </p>
 
 ![Adilmx's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&bg_color=30,3acdde,5740c9&title_color=fff&text_color=fff&icon_color=fff)
+                  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adilmx&&theme=react-dark)
 
 <h2 align="center">⚡ Programming Languages ,Frameworks and Tools</h2>
 <p>
