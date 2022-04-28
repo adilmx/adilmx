@@ -1,7 +1,10 @@
 
  <h2 align="center">ADILMX - AIT AHMED ADIL</h2>
  <p align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=adilmx&color=&color=blue" alt="adilmx" />
+ <a href="https://www.github.com/adilmx" target="_blank" rel="noreferrer"><img
+src="https://komarev.com/ghpvc/?username=adilmx&logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ <a href="https://www.github.com/adilmx" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adilmx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
  
 <h4 align="center">👋 Hi, I’m @adilmx my full name is AIT AHMED Adil</h4>
@@ -23,7 +26,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="adilmx" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&count_private=true" alt="adilmx" />
 </p>
 
 <p align="center">
