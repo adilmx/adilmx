@@ -3,7 +3,7 @@
  <p align="center">
  <a href="https://www.github.com/adilmx" target="_blank" rel="noreferrer"><img
 src="https://komarev.com/ghpvc/?username=adilmx&logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
- <a href="https://www.github.com/adilmx" target="_blank" rel="noreferrer"><img
+ <a href="https://github.com/adilmx?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adilmx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
  
