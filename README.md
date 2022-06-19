@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/adilmx?logo=github&style=for-the-ba
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilmx&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adilmx" />
 </p>
                   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adilmx&&theme=react-dark)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adilmx&&theme=react-dark)-->
 
 <h2 align="center">:computer:Programming Languages ,Frameworks and Tools</h2>
 <p>
