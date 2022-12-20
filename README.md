@@ -6,7 +6,8 @@ src="https://komarev.com/ghpvc/?username=adilmx&logo=github&style=for-the-badge&
  <a href="https://github.com/adilmx?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adilmx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
- 
+ <a href=#><img src="adilmx-contribution.svg"></a>
+
 <h4 align="center">👋 Hi, I’m @adilmx my full name is AIT AHMED Adil</h4>
 <h4 align="center">:octocat: | FullStack Developer | Study and Development Engineer at Adria Business & Technology | </h4>
  <h4 align="center">:heart_eyes: Passionate about the web and discovering new Technologies</h4>
