@@ -104,5 +104,5 @@ src="https://img.shields.io/github/followers/adilmx?logo=github&style=for-the-ba
  <h3 align="center">ｆｏｒ ｓｕｃｃｅｓｓ, ｉｔ'ｓ ｔｈｅ ｃｏｕｒａｇｅ ｔｏ ｃｏｎｔｉｎｕｅ ｔｈａｔ ｃｏｕｎｔｓ.</h3>
  
  <p align="center"></p>
- ![](./Bottom_down.svg)
+
 
