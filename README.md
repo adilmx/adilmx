@@ -26,9 +26,9 @@ src="https://img.shields.io/github/followers/adilmx?logo=github&style=for-the-ba
  <h2 align="center">:zap: Overview about my Github account</h2>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&count_private=true" alt="adilmx" />
-</p>
+</p> -->
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilmx&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adilmx" />
