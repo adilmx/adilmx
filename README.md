@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/adilmx?logo=github&style=for-the-ba
  <a href=#><img src="adilmx-contribution.svg"></a>
 
 <h4 align="center">👋 Hi, I’m @adilmx my full name is AIT AHMED Adil</h4>
-<h4 align="center">:octocat: | FullStack Developer | Software Engineer at Adria Business & Technology | </h4>
+<h4 align="center">:octocat: | FullStack Developer | Software Engineer | </h4>
  <h4 align="center">:heart_eyes: Passionate about the web and discovering new Technologies</h4>
  
  <h2 align="center">📫 Reach me by using</h2>
